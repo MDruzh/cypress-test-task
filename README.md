@@ -5,8 +5,14 @@
    ```npm install cypress --save-dev```
    
    or
+   
    ```yarn add cypress --dev```
+   
 4) Run Cypress tests:
+
    ```./node_modules/.bin/cypress run```
+   
    or
+   
    ```npx cypress run```
+   
